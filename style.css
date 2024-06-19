@@ -1,0 +1,98 @@
+body{
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align:center ;
+    font-size: 18px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: solid;
+    color: #FFFFFF;
+}
+h1{
+    color: #3d05c0;
+    font-family: Courier 'Courier New', Courier, monospace;
+}
+p{
+    font-style: italic;
+    font-size:normal;
+}
+h3{
+    font-size: 22px;
+    font-style: oblique;
+}
+h4{
+    font-size: large;
+    font-style: inherit;
+    color: #0a9e0a;
+}
+h6{
+    font-size: 25px;
+    font-style: unset;
+    color: #f00808;
+}
+h2{
+    color: #09ca05;
+    font: 20px;
+}
+.first-photo{
+    z-index: 7;
+    left: 200px;
+    height: 150px;
+    width: 150px;
+    border-radius: 0 40px 0 40px;
+}
+.second-photo{
+    z-index: 6;
+    right: 200px;
+    top: 50px;
+    height: 150px;
+    width: 150px;
+    border-radius: 0 40px 0 40px;
+}
+.third-photo{
+    z-index: 8;
+    left: 250px;
+    height: 150px;
+    width: 150px;
+    border-radius: 0 40px 0 40px;
+}
+.fourth-photo{
+    z-index: 4;
+    right: 150px;
+    left: 100px;
+    height: 150px;
+    width: 150px;
+    border-radius: 0 40px 0 40px;
+}
+.sixth-photo{
+    z-index: 2;
+    bottom: 120px;
+    left: 40px;
+    height: 150px;
+    width: 150px;
+    border-radius: 0 40px 0 40px;
+}
+.seventh-photo{
+    z-index: 10;
+    top: 170px;
+    right: 250px;
+    left: 50px;
+    bottom: 70px;
+    height: 150px;
+    width: 150px;
+    border-radius: 0 40px 0 40px;
+}
+.fifth-photo{
+    z-index: 6;
+    left: 230px;
+    right: 15px;
+    height: auto;
+    width: auto;
+    border-radius: 0 50px 0 50px;
+}
+
